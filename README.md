@@ -1,4 +1,4 @@
-# A Slideshow 1.0
+# Image slideshow
 A lightweight image slideshow skin, for your family photos.  
 ![alt text](https://github.com/callmeEthan/ImageSlideshow/raw/master/preview.gif)  
 There are already existing slideshow skin for rainmeter, but this skin aim to use as little performance as possible, only minus image reading/loading time.  
